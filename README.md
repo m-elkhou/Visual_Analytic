@@ -1,16 +1,13 @@
 # Visual_Analytic
-Visual Analytics with python
+>
+>* Foreground / Background Segmentation (Image-Based) Using: Image Difference, Time Derivation, Moving Average, Running Average, and Median Filter
+>* Foreground / background segmentation (Pixel-Based) using: MOG, MOG2 and GMG.
+>* Motion recognition of cars using optical flow from a video
+>* Follow the hand using SIFT Points of Interest.
+>
+> SKILLS : Python(Spyder), Open-CV.
 
-* Segmentation avant / arrière-plan  (Basée sur les images) en utilisant : la différence d'image, la dérivation du temps, la Moyenne mobile, la La Moyenne glissante et le filtre Médian
-
-* Segmentation avant / arrière plan (Basée sur les pixelss) en utilisant  : MOG, MOG2 et GMG.
-
-* La reconnaissance de mouvement des voitures à l'aide de flux optique dans une scène vidéo.
-
-* Suivez la main en utilisant les points d'intérêt SIFT
-
-Technologies : Python, Open-CV.
-
+---
 ### Links
 
 - [E-mail : ](mailto:m.elkhou@hotmail.com) m.elkhou@hotmail.com
